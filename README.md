@@ -1,7 +1,13 @@
 This the readme from the reveal.js repository. 
-I just created my own html file (Presentation***.html). 
+
+I just created my own html file (Presentation.html) based on the index.html file. 
+
 Clone all the repo locally, launch R from the R script directory, type the command runApp("../R_script_shiny/")
-copy the local IP address (if different from:  http://127.0.0.1:7823) in the iframe tag / line 337 of the Presentation***.html file. Good luck
+
+copy the local IP address (if different from:  http://127.0.0.1:7823) in the iframe tag / line 337 of the 
+Presentation.html file. 
+
+Good luck
 
 
 
